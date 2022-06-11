@@ -1,9 +1,5 @@
 server:
   port: 8083
-logging:
-  level:
-    root: info
-    '[com.ctc]': debug
 eureka:
   instance:
     prefer-ip-address: true
